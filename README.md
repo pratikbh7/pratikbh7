@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikbh7
-- 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning scripting languages to introduce more dynamic content into my creation.
+- 👀 I’m interested in web applications.
+- 🌱 I’m currently learning React library.
 - 💞️ I’m looking to collaborate on any projects with framework applications.
 - 📫 How to reach me ...
 
